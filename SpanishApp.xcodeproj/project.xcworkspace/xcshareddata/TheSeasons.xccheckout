@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD59C6D2-FCAE-4FF0-8A6F-ED6D022989A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TheSeasons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5738A6C9D4A675A26574A726586C6C73C7AD1849</key>
+		<string>https://github.com/jjordanarenas/geoEvents.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Documents/Consultant/Ray Wenderlich/Child book/Migration/Final/TheSeasons/TheSeasons.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5738A6C9D4A675A26574A726586C6C73C7AD1849</key>
+		<string>../../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jjordanarenas/geoEvents.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5738A6C9D4A675A26574A726586C6C73C7AD1849</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5738A6C9D4A675A26574A726586C6C73C7AD1849</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jjordan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
